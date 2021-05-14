@@ -1,5 +1,6 @@
 package org.runner;
-
+//This is a comment 1
+//This is a comment 2
 import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 
